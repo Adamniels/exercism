@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/adamnielsen/exercism/csharp/tree-building/TreeBuilding.csproj": {}
+    "/Users/adamnielsen/Exercism/csharp/tree-building/TreeBuilding.csproj": {}
   },
   "projects": {
-    "/Users/adamnielsen/exercism/csharp/tree-building/TreeBuilding.csproj": {
+    "/Users/adamnielsen/Exercism/csharp/tree-building/TreeBuilding.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/adamnielsen/exercism/csharp/tree-building/TreeBuilding.csproj",
+        "projectUniqueName": "/Users/adamnielsen/Exercism/csharp/tree-building/TreeBuilding.csproj",
         "projectName": "TreeBuilding",
-        "projectPath": "/Users/adamnielsen/exercism/csharp/tree-building/TreeBuilding.csproj",
+        "projectPath": "/Users/adamnielsen/Exercism/csharp/tree-building/TreeBuilding.csproj",
         "packagesPath": "/Users/adamnielsen/.nuget/packages/",
-        "outputPath": "/Users/adamnielsen/exercism/csharp/tree-building/obj/",
+        "outputPath": "/Users/adamnielsen/Exercism/csharp/tree-building/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/adamnielsen/.nuget/NuGet/NuGet.Config"
