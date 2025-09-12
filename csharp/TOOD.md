@@ -1,0 +1,2 @@
+# Next:
+- [ ] Inheritance: Hangman
